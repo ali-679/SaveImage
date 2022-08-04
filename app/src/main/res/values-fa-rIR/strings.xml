@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ذخیره عکس</string>
+    <string name="textView_login">ورود</string>
+    <string name="editText_email">رایانامه</string>
+    <string name="editText_password">رمز عبور</string>
+    <string name="textView_err_email">رایانامه معتبر نیست</string>
+    <string name="textView_err_password">رمز عبور حداقل باید 8 کاراکتر باشد</string>
+    <string name="textView_forgetpassword">رمز عبور خود را فراموش کرده اید؟</string>
+    <string name="checkBox_remember">مرا به خاطر بسپار</string>
+    <string name="button_signIn">ورود</string>
+    <string name="textView_socialSignUp">شبکه های اجتماعی</string>
+    <string name="textView_newUser">کاربر جدید هستید؟</string>
+    <string name="textView_signUp">ثبت نام</string>
+    <string name="toast_loginFailed">نام کاربری یا رمز عبور معتبر نیست!</string>
+    <string name="toast_loginsuccess">با موفقیت انجام شد</string>
+    <string name="toast_errNet">نمیتوان به سرور متصل شد</string>
+    <string name="textView_register">ثبت نام</string>
+    <string name="textView_haveAnAccount">حسابی دارید؟</string>
+    <string name="textView_signin">ورود</string>
+    <string name="textView_validation">اعتبار سنجی</string>
+    <string name="button_register">ثبت نام</string>
+    <string name="toast_emailExists">رایانامه وجود دارد</string>
+    <string name="toast_notExists">چنین رایانامه ای وجود ندارد</string>
+    <string name="textView_forgetPass">فراموشی رمز عبور</string>
+    <string name="button_continue">ادامه</string>
+    <string name="button_checkCode">بررسی کد</string>
+    <string name="button_goBack">بازگشت</string>
+    <string name="toast_password_changed">رمز عبور تغییر یافت</string>
+    <string name="textView_fromCamera">از دوربین</string>
+    <string name="textView_fromGallery">از گالری</string>
+    <string name="textView_logout">خروج</string>
+    <string name="textView_deleteAccount">حذف حساب کاربری</string>
+    <string name="toast_imageUpload">عکس آپلود شد</string>
+    <string name="textView_sure">آیا مطمئن هستید؟</string>
+    <string name="textView_cancel">لغو</string>
+    <string name="toast_accoun_deleted">حساب کاربری حذف شد</string>
+    <string name="textView_noNet">بدون اینترنت</string>
+    <string name="textView_delete">حذف</string>
+</resources>

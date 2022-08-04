@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Save Image</string>
+    <string name="textView_login">Login</string>
+    <string name="editText_email">Email</string>
+    <string name="editText_password">Password</string>
+    <string name="textView_err_email">Error Email</string>
+    <string name="textView_err_password">Password Should be at least 8 character</string>
+    <string name="textView_forgetpassword">Forget Password?</string>
+    <string name="checkBox_remember">Remember Me</string>
+    <string name="button_signIn">Sign In</string>
+    <string name="textView_socialSignUp">Social SignUp</string>
+    <string name="textView_newUser">New User?</string>
+    <string name="textView_signUp">Sign Up</string>
+    <string name="toast_loginFailed">Username or Password is wrong!</string>
+    <string name="toast_loginsuccess">Successfully</string>
+    <string name="toast_errNet">Can\'t connect to server!</string>
+    <string name="textView_register">Register</string>
+    <string name="textView_haveAnAccount">Have An Account</string>
+    <string name="textView_signin">Sign in</string>
+    <string name="textView_validation">Validation</string>
+    <string name="button_register">Register</string>
+    <string name="toast_emailExists">Email Already Exists</string>
+    <string name="toast_notExists">Email Not Exists</string>
+    <string name="textView_forgetPass">Forget Password</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_checkCode">Check Code</string>
+    <string name="button_goBack">Go Back</string>
+    <string name="toast_password_changed">Password Changed</string>
+    <string name="textView_fromCamera">From Camera</string>
+    <string name="textView_fromGallery">From Gallery</string>
+    <string name="textView_logout">Logot</string>
+    <string name="textView_deleteAccount">Delete Account</string>
+    <string name="toast_imageUpload">Image Uploaded!</string>
+    <string name="textView_sure">Are you sure?</string>
+    <string name="textView_cancel">Cancel</string>
+    <string name="toast_accoun_deleted">Account Deleted</string>
+    <string name="textView_noNet">No Internet</string>
+    <string name="textView_delete">Delete</string>
+
+
+</resources>
